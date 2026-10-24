@@ -40,7 +40,13 @@
     border-radius: 15px;
     padding: 16px 40px;
 
-    background: #1b414b;
+    background-color: #1b414b;
 
     border: none;
+}
+
+.hero-button:hover,
+.hero-button:focus-visible {
+    color: #1b414b;
+    background-color: #fbfbfb;
 }
