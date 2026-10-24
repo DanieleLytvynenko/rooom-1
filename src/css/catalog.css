@@ -1,1 +1,25 @@
 /* Сюди додавай стилі частинки Catalog */
+.catalog-list {
+  display: flex;
+  gap: 20px;
+}
+
+.catalog-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.catalog-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.catalog-subtitle {
+  display: flex;
+}
+
+.catalog-description {
+  display: flex;
+}
