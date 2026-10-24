@@ -1,1 +1,25 @@
 /* Сюди додавай стилі частинки About */
+.section-about {
+}
+.about-list {
+  background-color: #1b414b;
+}
+.about-item {
+}
+.about-number {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  color: #fbfbfb;
+}
+.about-desc {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #b4b7ba;
+}
+.about-ill {
+  background-color: transparent;
+}
