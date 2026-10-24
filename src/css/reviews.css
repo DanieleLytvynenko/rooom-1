@@ -1,1 +1,43 @@
 /* Сюди додавай стилі частинки Reviews */
+
+.reviews {
+}
+.reviews-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+.reviews-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #b4b7ba;
+}
+
+.reviews-list {
+}
+.reviews-item {
+  background-color: #fbfbfb;
+}
+.reviews-avatar {
+    
+}
+.reviews-author {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #040306;
+}
+.reviews-comment {
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #989899;
+}
